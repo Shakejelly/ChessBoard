@@ -31,8 +31,8 @@ namespace ChessBoard
                 }
                  Console.WriteLine(); //to jump rows
             }
-            Console.WriteLine("Välj ut en ruta att placera in blabla");
-            int piece = Int32.Parse(Console.ReadLine());
+           // Console.WriteLine("Välj ut en ruta att placera in blabla");
+            //int piece = Int32.Parse(Console.ReadLine());
         }
     }
 }
